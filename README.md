@@ -1,4 +1,4 @@
-# Camel com Segregação
+# Camel com Segregação.
 
 
 Um simples exemplo do uso de Apache Camel trabalhando arquivos CSV e distribuindo seu contéudo para diferentes saídas.
